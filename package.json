@@ -1,0 +1,9 @@
+{
+  "name": "staart-spec",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/riddler/staart_spec#readme",
+  "devDependencies": {
+    "@scion-scxml/test-framework": "^2.0.15"
+  }
+}
